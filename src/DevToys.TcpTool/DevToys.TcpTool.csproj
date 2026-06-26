@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <IsPackable>true</IsPackable>
     <IncludeBuildOutput>false</IncludeBuildOutput>
-    <Version>1.0.0-preview</Version>
+    <Version>0.0.1</Version>
     <Title>DevToys TCP Tool</Title>
     <Description>TCP client and server messaging tool for DevToys.</Description>
     <Authors>wangc</Authors>
