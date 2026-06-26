@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevToys.TcpTool/DevToys.TcpTool.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DevToys.TcpTool.Tests/DevToys.TcpTool.Tests.csproj" />
+  </Folder>
+</Solution>

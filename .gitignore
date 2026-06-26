@@ -1,0 +1,15 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+.vs/
+*.nupkg
+
+## IDE
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store

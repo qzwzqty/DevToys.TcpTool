@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "DevToys GUI": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\WindowsApps\\64360VelerSoftware.DevToys-Preview_2.0.9.0_x64__j80j2txgjg9dj\\DevToys.exe",
+      "environmentVariables": { "EXTRAPLUGIN": "$(TargetDir)" }
+    }
+  }
+}
