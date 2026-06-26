@@ -9,8 +9,15 @@
     <Title>DevToys TCP Tool</Title>
     <Description>TCP client and server messaging tool for DevToys.</Description>
     <Authors>wangc</Authors>
+    <PackageProjectUrl>https://github.com/qzwzqty/DevToys.TcpTool</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageTags>devtoys-app;tcp;</PackageTags>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../../README.md" Pack="true" PackagePath="" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="DevToys.Api" Version="2.0.9-preview" />
